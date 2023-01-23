@@ -1,4 +1,4 @@
-[![banner](/_assets/pics/band_iothd.png)](https://github.com/marcoteran/iothd)
+[![banner](/_assets/pics/band_iothd.jpg)](https://github.com/marcoteran/iothd)
 # Diseño de dispositivos para el Internet de las Cosas
 
 ## Descripción del curso
@@ -7,7 +7,7 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 * Se estudiarán los principios de diseño de productos electrónicos enfocados al Internet de las Cosas en cada una de las etapas asociadas:
 	- Desde la idea y concepción hasta el desarrollo del producto
 ### Información de contacto
-* **Telegram group:** [enlace](https://t.me/+Xf9vcdixHuQxM2Rh)
+* **Telegram group:** [enlace](https://t.me/+yMc5FjlRFaswOTgx)
 <br>
 
 ---
