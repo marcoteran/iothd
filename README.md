@@ -21,12 +21,18 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 	* Descargar presentación [PDF](https://github.com/marcoteran/iothd/raw/master/lectures/02_iothd_designprocess.pdf)
 	* Metodolodía SCRUM [PDF](https://github.com/marcoteran/iothd/raw/master/lectures/iothd_scrum.pdf)
 3. **Curso de GIT y control de versiones**
-	* Descargar presentación [PDF](https://github.com/marcoteran/iotdevicedesign/raw/master/lectures/03_iothd_git.pdf)
-		- **Manual GIT y control de versiones** [Descargar](https://github.com/marcoteran/iotdevicedesign/raw/master/files/material/iothd_gitbook_v0.pdf)
-			* **GIT cheat sheets:** [GitHub](https://github.com/marcoteran/iotdevicedesign/raw/master/files/material/github_gitcheatsheet.pdf) [Datacamp](https://github.com/marcoteran/iotdevicedesign/raw/master/files/material/datacamp_gitcheatsheet.pdf) [Gitlab](https://github.com/marcoteran/iotdevicedesign/raw/master/files/material/gitlab_gitcheatsheet.pdf) [Atlassian](https://github.com/marcoteran/iotdevicedesign/raw/master/files/material/atlassian_gitcheatsheet.pdf)
+	* Descargar presentación [PDF](https://github.com/marcoteran/iothd/raw/master/lectures/03_iothd_git.pdf)
+		- **Manual GIT y control de versiones** [Descargar](https://github.com/marcoteran/iothd/raw/master/files/material/iothd_gitbook_v0.pdf)
+			* **GIT cheat sheets:**
+			[GitHub](https://github.com/marcoteran/iothd/raw/master/iothd/material/github_gitcheatsheet.pdf)
+			[Datacamp](https://github.com/marcoteran/iothd/raw/master/files/material/datacamp_gitcheatsheet.pdf)
+			[Gitlab](https://github.com/marcoteran/iothd/raw/master/files/material/gitlab_gitcheatsheet.pdf)
+			[Atlassian](https://github.com/marcoteran/iothd/raw/master/files/material/atlassian_gitcheatsheet.pdf)
 
 ---		
 ## Laboratorios
+	1. Laboratorio Diseño de diagrama de bloquesde sistema IoT en draw.io
+	2. Laboratorio de flujo de trabajo en Git
 
 ---
 ## Material adicional
