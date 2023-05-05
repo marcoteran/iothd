@@ -34,8 +34,9 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 	1. Laboratorio Diseño de diagrama de bloquesde sistema IoT en draw.io
 	2. Laboratorio de flujo de trabajo en Git
 
----
-## Material adicional
+---		
+## Proyecto
+- Segunda entrega [subir](https://www.dropbox.com/request/5AtXiuyOEQ2j8U5AOBzX)
 
 ---
 ## Bibliografía
