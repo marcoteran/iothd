@@ -19,7 +19,7 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 
 #### Información de contacto:
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
-* **Telegram group:** [https://t.me/+yMc5FjlRFaswOTgx](https://t.me/+yMc5FjlRFaswOTgx)
+* **Telegram group:** [https://t.me/+rxKaBlR8DTw5YmRh](https://t.me/+rxKaBlR8DTw5YmRh)
 ---
 
 ## Contenido
@@ -28,12 +28,12 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 
 
 ---		
-## Laboratorios
+## Asignaciones
 
 
 ---
 ## Proyecto
-
+Información del proyecto.
 
 ---
 ## Bibliografía
