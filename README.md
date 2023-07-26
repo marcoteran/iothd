@@ -9,8 +9,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/marcoteran/iothd?color=%23fa251e&logo=GitHub)](https://github.com/marcoteran/iothd/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcotulioteran?style=social)
 </div>
----
 
+---
 ## Descripción del curso
 
 El curso **Diseño de dispositivos para el Internet de las Cosas**  es una introducción al diseño y análisis de dispositivos para el Internet de las Cosas.
