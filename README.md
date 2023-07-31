@@ -27,7 +27,8 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/00_iothd_syllabus.pdf)
 1. **Internet de las Cosas y aplicaciones**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/01_iothd_iotapplications.pdf)
-
+2. **Proceso de diseño en ingeniería**
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/02_iothd_designprocess.pdf)
 ---		
 ## Asignaciones
 - Planteamiento de un proyecto de IoT innovador.
