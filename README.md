@@ -31,7 +31,7 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/02_iothd_designprocess.pdf)
 3. **Metodología SCRUM**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/03_iothd_scrum.pdf)
-	* *Notas: Metodolodía SCRUM* [[PDF]](https://github.com/marcoteran/iothd/raw/master/resources/literature/iothd_scrum.pdf)
+	* *Notas: Metodología SCRUM* [[PDF]](https://github.com/marcoteran/iothd/raw/master/resources/literature/iothd_scrum.pdf)
 
 ---		
 ## Proyecto
