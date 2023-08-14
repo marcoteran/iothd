@@ -29,14 +29,15 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/01_iothd_iotapplications.pdf)
 2. **Proceso de diseño en ingeniería**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/02_iothd_designprocess.pdf)
+3. **Metodología SCRUM**
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/03_iothd_scrum.pdf)
+	* *Notas: Metodolodía SCRUM* [[PDF]](https://github.com/marcoteran/iothd/raw/master/resources/literature/iothd_scrum.pdf)
+
 ---		
-## Asignaciones
-- Planteamiento de un proyecto de IoT innovador.
-
-
----
 ## Proyecto
-Información del proyecto.
+Información del proyecto:
+- Planteamiento de un proyecto de IoT innovador.
+- Planteamiento del problema
 
 ---
 ## Bibliografía
