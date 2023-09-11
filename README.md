@@ -32,19 +32,19 @@ El curso **Diseño de dispositivos para el Internet de las Cosas**  es una intro
 3. **Metodología SCRUM**
 	* Descargar presentación [[PDF]](https://github.com/marcoteran/iothd/raw/master/lectures/03_iothd_scrum.pdf)
 	* *Notas: Metodología SCRUM* [[PDF]](https://github.com/marcoteran/iothd/raw/master/resources/literature/iothd_scrum.pdf)
-3. **Curso de GIT y control de versiones**
+4. **Curso de GIT y control de versiones**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iothd/raw/master/lectures/04_iothd_git.pdf)
 		- **Manual GIT y control de versiones** [Descargar](https://github.com/marcoteran/iothd/raw/master/resources/cheatsheets/iothd_gitbook_v0.pdf)
-			* **GIT cheat sheets:**
+		- **GIT cheat sheets:** 
 			[GitHub](https://github.com/marcoteran/iothd/raw/master/resources/cheatsheets/github_gitcheatsheet.pdf)
 			[Datacamp](https://github.com/marcoteran/iothd/raw/master/resources/cheatsheets/datacamp_gitcheatsheet.pdf)
 			[Gitlab](https://github.com/marcoteran/iothd/raw/master/resources/cheatsheets/gitlab_gitcheatsheet.pdf)
 			[Atlassian](https://github.com/marcoteran/iothd/raw/master/resources/cheatsheets/atlassian_gitcheatsheet.pdf)
----		
-## Proyecto
-Información del proyecto:
-- Planteamiento de un proyecto de IoT innovador.
-- Planteamiento del problema
+		- **Vídeo:** Introduction to Git Recap | Learn with Dr G. [[YT]](https://www.youtube.com/watch?v=9uGS1ak_FGg&ab_channel=MicrosoftDeveloper)
+		- Quick reference guides: GitHub Cheat Sheet [[Visual Git Cheat Sheet]](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+		- **Curso:** Introducción al control de versiones con Git [[LINK]](https://learn.microsoft.com/es-es/training/paths/intro-to-vc-git/)
+5. **Fundamentos de diseño de circuitos impresos**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iothd/raw/master/lectures/05_iothd_pcbdesign.pdf)
 
 ---
 ## Bibliografía
